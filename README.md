@@ -1,6 +1,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-random-neural-network/node-classification-on-citeseer-with-public)](https://paperswithcode.com/sota/node-classification-on-citeseer-with-public?p=graph-random-neural-network)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-random-neural-network/node-classification-on-pubmed-with-public)](https://paperswithcode.com/sota/node-classification-on-pubmed-with-public?p=graph-random-neural-network)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/graph-random-neural-network/node-classification-on-cora-with-public-split)](https://paperswithcode.com/sota/node-classification-on-cora-with-public-split?p=graph-random-neural-network)
 
-#Graph Random Neural Network for Semi-Supervised Learning on Graphs
+# Graph Random Neural Network for Semi-Supervised Learning on Graphs
 
 # GRAND
 This is the code of paper: Graph Random Neural Network for Semi-Supervised Learning on Graphs [[arxiv](https://arxiv.org/pdf/2005.11079.pdf)]
